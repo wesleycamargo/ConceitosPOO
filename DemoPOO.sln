@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClasses", "ConsoleApp3\DemoClasses.csproj", "{32A94FBF-FFE7-4A62-9C36-466EB4BFEA70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClasses", "DemoClasses\DemoClasses.csproj", "{32A94FBF-FFE7-4A62-9C36-466EB4BFEA70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
